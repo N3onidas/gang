@@ -1,16 +1,16 @@
 [
 	{
-		"title": "Ace King",
-		"notes": "Koreans. Blackjack is hosted here.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Korean_Mafia_(Sun_Clan)",
+		"title": "Russian MOB.",
+		"notes": "Seksowna Brigada",
+		"wiki_link": "-",
 		"order": 0,
 		"strokecolor": "FD5E53",
 		"fillcolor": "FD5E53",
 		"latlngarray": [
-			{"lat": -56.038, "lng": -12.526},
-			{"lat": -56.276, "lng": -11.317},
-			{"lat": -57.037, "lng": -11.801},
-			{"lat": -56.773, "lng": -13.064}
+			{"lat": -73.954, "lng": -49.496},
+			{"lat": -73.542, "lng": -44.716},
+			{"lat": -69.272, "lng": -52.217},
+			{"lat": -69.481, "lng": -53.633}
 		]
 	},
 	{
